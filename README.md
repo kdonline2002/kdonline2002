@@ -2,7 +2,7 @@
 
 <!-- **kdonline2002/kdonline2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on a micro saas.
+I’m currently developing a Micro-SaaS for data cleaning and conversion, a mobile application for Google Play, and a Python-based business intelligence tool.
 <!-- - 🌱 I’m currently learning py.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
